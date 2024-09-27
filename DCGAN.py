@@ -1,8 +1,5 @@
 import torch.nn as nn
 
-random_noise = 100
-
-
 class Generator(nn.Module):
     def __init__(self,random_noise = 100) :
         super(Generator,self).__init__()
