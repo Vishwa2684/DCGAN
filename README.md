@@ -6,3 +6,4 @@ Trained Model on 10 epochs.
 Used CelebA dataset to train GAN.
 [Click here to download CelebA dataset](https://drive.google.com/uc?id=0B7EVK8r0v71pZjFTYXZWM3FlRnM)
 
+<img src="/output/output_color_50ep.jpg" alt="GAN image" />
